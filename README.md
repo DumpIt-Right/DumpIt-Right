@@ -66,9 +66,11 @@ If you have any issues or questions, please feel free to reach out for assistanc
 
 Here is a list of contributors who have contributed to this project:
 
-1. [Aryan Singh](https://github.com/build-error)
-2. [Mohak Sharma](https://github.com/Mohak327)
-3. [Jai Tyagi](https://github.com/Jai132)
-4. [Aditya Sharma](https://github.com/PanditAdityaJi)
+1. [Arushi Gupta](https://github.com/build-error)
+2. [Aryan Singh](https://github.com/build-error)
+3. [Aditya Sharma](https://github.com/PanditAdityaJi)
+4. [Jai Tyagi](https://github.com/Jai132)
+5. [Lokesh Singh]()
+6. [Manya Goyal]()
 
 We appreciate the contributions made by these individuals to the project.
