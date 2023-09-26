@@ -66,7 +66,7 @@ If you have any issues or questions, please feel free to reach out for assistanc
 
 Here is a list of contributors who have contributed to this project:
 
-1. [Arushi Gupta](https://github.com/build-error)
+1. [Arushi Gupta](https://github.com/ArushiGupta26)
 2. [Aryan Singh](https://github.com/build-error)
 3. [Aditya Sharma](https://github.com/PanditAdityaJi)
 4. [Jai Tyagi](https://github.com/Jai132)
